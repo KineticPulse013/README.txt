@@ -1,4 +1,3 @@
-# hi
 # Company name : Kinetic Pulse
 # Procuct name : Kinetic Pulse
 # Members of the team :
